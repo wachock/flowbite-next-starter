@@ -1,13 +1,13 @@
 {
   "name": "flowbite-next-starter",
   "version": "0.0.0",
-  "homepage": "https://github.com/tulupinc/flowbite-next-starter",
-  "bugs": "https://github.com/tulupinc/flowbite-next-starter/issues",
+  "homepage": "https://github.com/wochock/flowbite-next-starter",
+  "bugs": "https://github.com/wochock/flowbite-next-starter/issues",
   "license": "MIT",
-  "author": "Conner Davis <conner@tulup.io>",
+  "author": "william <williamjonesfree@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tulupinc/flowbite-next-starter.git"
+    "url": "https://github.com/wochock/flowbite-next-starter.git"
   },
   "scripts": {
     "build": "next build",
